@@ -1,0 +1,84 @@
+/*------------------------------------------------------------------
+Theme Name:
+Last change: 
+-------------------------------------------------------------------*/
+/*
+	[Table of contents]
+
+	* Shortcodes		
+		- Blog Section
+
+
+	* Responsive
+		- min-width: 1200
+		- min-width: 992
+		- min-width: 768
+		- min-width: 1441 to max-width: 1680
+		- min-width: 1367 to max-width: 1440
+		- min-width: 1200 to max-width: 1366
+		- min-width: 992 to max-width: 1199
+		- min-width: 768 to max-width: 991
+		- max-width: 991
+		- min-width: 768 to max-width: 991
+		- max-width: 767
+		- max-width: 639
+		- max-width: 479
+*/
+
+/*------------------------------------------------------------------ */
+	
+/* - Blog Section */
+
+
+/*------------------------------------------------------------------
+	- Responsive
+-------------------------------------------------------------------*/
+
+/* - min-width: 1200px */
+@media (min-width: 1200px) {
+	
+}
+
+/* - min-width: 992 */
+@media (min-width: 992px) {
+	
+}
+
+/* - min-width: 768 */
+@media (min-width: 768px) {
+	
+}
+
+/* - max-width: 1200px */
+@media (max-width: 1200px) {
+	
+}
+
+/* - min-width: 992 to max-width: 1199 */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+	
+}
+
+/* - max-width: 991 */
+@media (max-width: 991px) {
+	
+}
+
+/* - min-width: 768 to max-width: 991 */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+
+/* - max-width: 767 */
+@media (max-width: 767px) {	
+	
+}
+
+/* -  max-width: 639 */
+@media (max-width: 639px) {
+	
+}
+/* -  max-width: 479 */
+@media (max-width: 479px) {
+	
+}
